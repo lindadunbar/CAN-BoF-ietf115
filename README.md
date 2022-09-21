@@ -26,15 +26,15 @@ The CAN working group is chartered to work on the following items:
     - Add-on capabilities, such as mobility support, both in terms of client and service mobility, or transport layer security optimizations in multi-instance environments. 
 
 
-Milestones:
-Nov 2025	Submit CAN OAM, Performance Management (PM), YANG, Protection document to the IESG for publication
-Mar 2025	Submit CAN control plane, CAN data plane document to the IESG for publication
-Mar 2025	Adopt the CAN OAM, Performance Management (PM), YANG, Protection document
-Jul 2024  Submit CAN modeling, metrics and representation document to the IESG for publication
-Jul 2024  Submit the the CAN Architecture document to the IESG for publication
-Mar 2024	Adopt at least one CAN data plane protocol document
-Mar 2024	Adopt at least one CAN control plane protocol document
-Nov 2023  Submit the CAN Problem Statement, Use Cases, gap analysis and Requirements document to the IESG for publication
-Nov 2023	Adopt the CAN modeling, metrics and representation document		
-Nov 2023	Adopt the CAN Architecture document	
-Jul 2023  Adopt the CAN Problem Statement, Use Cases, gap analysis and Requirements documents
+- ### Milestones:
+  - Nov 2025	Submit CAN OAM, Performance Management (PM), YANG, Protection document to the IESG for publication
+  - Mar 2025	Submit CAN control plane, CAN data plane document to the IESG for publication
+  - Mar 2025	Adopt the CAN OAM, Performance Management (PM), YANG, Protection document
+  - Jul 2024  Submit CAN modeling, metrics and representation document to the IESG for publication
+  - Jul 2024  Submit the the CAN Architecture document to the IESG for publication
+  - Mar 2024	Adopt at least one CAN data plane protocol document
+  - Mar 2024	Adopt at least one CAN control plane protocol document
+  - Nov 2023  Submit the CAN Problem Statement, Use Cases, gap analysis and Requirements document to the IESG for publication
+  - Nov 2023	Adopt the CAN modeling, metrics and representation document		
+  - Nov 2023	Adopt the CAN Architecture document	
+  - Jul 2023  Adopt the CAN Problem Statement, Use Cases, gap analysis and Requirements documents
